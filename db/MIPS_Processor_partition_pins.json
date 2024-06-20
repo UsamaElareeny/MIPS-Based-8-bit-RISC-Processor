@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "pc_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pc_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pc_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pc_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pc_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pc_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pc_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pc_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[0]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[1]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[2]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[3]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[4]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[5]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[6]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[7]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[8]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[9]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[10]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[11]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[12]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[13]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[14]",
+					"strict" : false
+				},
+				{
+					"name" : "destnation_register[15]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

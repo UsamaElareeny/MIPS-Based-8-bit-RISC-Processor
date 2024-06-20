@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Dec 25 08:26:14 2023
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : MIPS_Processor
+Top-level Entity Name : MIPS_Processor
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 287 / 6,272 ( 5 % )
+    Total combinational functions : 278 / 6,272 ( 4 % )
+    Dedicated logic registers : 66 / 6,272 ( 1 % )
+Total registers : 66
+Total pins : 26 / 92 ( 28 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 1 / 30 ( 3 % )
+Total PLLs : 0 / 2 ( 0 % )
